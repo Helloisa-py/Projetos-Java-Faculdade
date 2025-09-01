@@ -1,7 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+/* Recebe um número inteiro correspondente a nota do usuario e mostra uma mensagem dizendo se 
+* foi aprovado ou nao de acordo com o merito escolhido 
+*/
+
 package estrutura_de_decisao;
 import java.util.Scanner;
         
@@ -21,3 +21,4 @@ public class Estrutura_de_decisao {
     }
     
 }
+
