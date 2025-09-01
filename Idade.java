@@ -1,6 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+/* Recebe um numero inteiro digitado correspondente a idade do usuario e exibe uma mensagem
+* dizendo se e maior de idade ou menor de idade
  */
 package idade;
 import java.util.Scanner;
@@ -20,3 +19,4 @@ public class Idade {
     }
     
 }
+
