@@ -1,3 +1,5 @@
+/* Recebe o valor das horas e minutos digitado pelo usuário, calcula e mostra quantos minutos totais ja se passaram do dia */
+
 
 package relogio;
 import java.util.Scanner;
@@ -21,3 +23,4 @@ public class Relogio {
     }
     
 }
+
